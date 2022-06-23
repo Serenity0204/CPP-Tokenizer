@@ -3,3 +3,6 @@ and their frequencies. This project utilized the rewritten version of the cstrin
 
 The documentation is provided
 https://docs.google.com/document/d/1QQMY0KrvVznPfZNKyrnLYinnyrO6hPAlqC56wVSMsA4/edit#
+
+On replit:
+https://replit.com/@Serenity0204/Final-Project-C-Tokenizer?v=1
